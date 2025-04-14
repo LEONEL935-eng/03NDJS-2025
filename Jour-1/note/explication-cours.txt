@@ -1,1 +1,2 @@
-hisildhdlqdlqhqhfnk
+Node.js est un environnement d'exécution JavaScript côté serveur.
+Autrement dit : il te permet d'utiliser JavaScript pour créer des applications côté backend (serveur), pas seulement dans le navigateur.
