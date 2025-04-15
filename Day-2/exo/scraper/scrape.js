@@ -11,7 +11,7 @@ $('table tbody tr').each((i, row) => {
     année: $(cols[0]).text().trim(),
     discipline: $(cols[1]).text().trim(),
     nom: $(cols[2]).text().trim(),
-    pays: $(cols[3]).text().trim(),
+    pysiologie: $(cols[3]).text().trim(),
   };
 
   nobels.push(record);
