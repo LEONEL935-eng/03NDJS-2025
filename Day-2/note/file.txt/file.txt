@@ -1,1 +1,6 @@
 j'ai compris q'une fonction asynchrone permet d’exécuter du code non bloquant. Elle retourne toujours une Promise.
+j'ai bien compris ce que faire cheerio " Ils nous aides à se documenté pour sur les différents synthaxe pour 
+notre cours nodejs "
+l'un des éléments qui m'a aider c'est pour lier
+ un tableau a mon fichier package.js et il transforme les éléments du tablea
+
