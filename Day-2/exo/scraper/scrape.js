@@ -1,10 +1,6 @@
-import axios from 'axios';
 import * as cheerio from 'cheerio';
 
-const URL = 'https://www.css.cnrs.fr/scrape/nobel_all.html';
-
-const { data: html } = await axios.get(URL);
-const $ = cheerio.load(html);
+const $ = await cheerio.fromURL('https://www.css.cnrs.fr/scrape/nobel_all.html');
 
 const nobels = [];
 
