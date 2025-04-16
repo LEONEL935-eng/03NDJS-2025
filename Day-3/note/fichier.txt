@@ -1,0 +1,4 @@
+cheerio récupère un objet et retourne a json
+un middleware est une partie defensi d'un serveur, il permet la sécurité d'un serveur
+auth.js// Ajoouter un utilisateur
+la variable d'envirronement ??
