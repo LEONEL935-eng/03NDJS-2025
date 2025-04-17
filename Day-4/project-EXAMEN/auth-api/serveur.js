@@ -9,3 +9,4 @@ app.use('/api/users', userRoutes);
 app.listen(3000, () => {
     console.log('Serveur running on http://localhost:3000');
 })
+require('dotenv').config();
